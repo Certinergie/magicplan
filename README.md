@@ -1,0 +1,2 @@
+# magicplan
+GitHub Pages
